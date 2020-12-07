@@ -296,7 +296,7 @@
             <biomes_whitelist>pbiome_subtropicaldesert/pbiome_chaparral/pbiome_tropicalgrassland/pbiome_borealdesert/pbiome_borealrainforest/pbiome_tundraarctic</biomes_whitelist>
             <repeatable>false</repeatable>    
             <appear_multiple>false</appear_multiple>
-            <map_entity>spoi_cave_gen</map_entity>   
+            <map_entity>spoi_ruins_gen</map_entity>   
             <num_to_spawn>2</num_to_spawn>
         </comp>
     </GDInfo>
@@ -307,7 +307,7 @@
             <biomes_whitelist>pbiome_subtropicaldesert/pbiome_chaparral/pbiome_tropicalgrassland/pbiome_borealdesert/pbiome_borealrainforest/pbiome_tundraarctic</biomes_whitelist>
             <repeatable>false</repeatable>    
             <appear_multiple>false</appear_multiple>
-            <map_entity>spoi_cave_gen</map_entity>   
+            <map_entity>spoi_ruins_gen</map_entity>   
             <num_to_spawn>2</num_to_spawn>
         </comp>
     </GDInfo>
@@ -318,7 +318,7 @@
             <biomes_whitelist>pbiome_subtropicaldesert/pbiome_chaparral/pbiome_tropicalgrassland/pbiome_borealdesert/pbiome_borealrainforest/pbiome_tundraarctic</biomes_whitelist>
             <repeatable>false</repeatable>    
             <appear_multiple>false</appear_multiple>
-            <map_entity>spoi_cave_gen</map_entity>   
+            <map_entity>spoi_ruins_gen</map_entity>   
             <num_to_spawn>2</num_to_spawn>
         </comp>
     </GDInfo>
