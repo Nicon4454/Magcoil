@@ -219,14 +219,14 @@
     <GDInfo name="rsch_rec_ei_o_magcoil_1" class="GDResearch">
         <components>
             <comp class="CProperties">
-                <dname_id>GDEquipment_VehicleAttribute.ei_o_magcoil_1.name</dname_id>
+                <dname_id>GDEquipment_ObjectAttribute.ei_o_magcoil_1.name</dname_id>
                 <desc_id></desc_id>
                 <cost type="PurchaseCost">
                     <currency id="currency_research">100</currency>
                     <currency id="currency_techfragments">50</currency>
                 </cost>
                 <type>recipe</type>
-                <ui_icon>Items/IconVehicleEngine1</ui_icon>
+                <ui_icon>Items/IconPowerCoil1</ui_icon>
                 <research_needed>rsch_techprinting</research_needed>
                 <required_discoveries>dscitm_bpet2_ei_o_magcoil_1</required_discoveries>
                 <research_group>rsch_grp_techprinter.oequipment</research_group>
@@ -237,14 +237,14 @@
     <GDInfo name="rsch_rec_ei_o_magcoil_2" class="GDResearch">
         <components>
             <comp class="CProperties">
-                <dname_id>GDEquipment_VehicleAttribute.ei_o_magcoil_2.name</dname_id>
+                <dname_id>GDEquipment_ObjectAttribute.ei_o_magcoil_2.name</dname_id>
                 <desc_id></desc_id>
                 <cost type="PurchaseCost">
                     <currency id="currency_research">200</currency>
                     <currency id="currency_techfragments">150</currency>
                 </cost>
                 <type>recipe</type>
-                <ui_icon>Items/IconVehicleEngine2</ui_icon>
+                <ui_icon>Items/IconPowerCoil2</ui_icon>
                 <research_needed>rsch_techprinting</research_needed>
                 <required_discoveries>dscitm_bpet2_ei_o_magcoil_2</required_discoveries>
                 <research_group>rsch_grp_techprinter.oequipment</research_group>
@@ -255,14 +255,14 @@
     <GDInfo name="rsch_rec_ei_o_magcoil_3" class="GDResearch">
         <components>
             <comp class="CProperties">
-                <dname_id>GDEquipment_VehicleAttribute.ei_o_magcoil_3.name</dname_id>
+                <dname_id>GDEquipment_ObjectAttribute.ei_o_magcoil_3.name</dname_id>
                 <desc_id></desc_id>
                 <cost type="PurchaseCost">
                     <currency id="currency_research">300</currency>
                     <currency id="currency_techfragments">250</currency>
                 </cost>
                 <type>recipe</type>
-                <ui_icon>Items/IconVehicleEngine3</ui_icon>
+                <ui_icon>Items/IconPowerCoil3</ui_icon>
                 <research_needed>rsch_techprinting</research_needed>
                 <required_discoveries>dscitm_bpet2_ei_o_magcoil_3</required_discoveries>
                 <research_group>rsch_grp_techprinter.oequipment</research_group>
